@@ -1,3 +1,0 @@
-/home/gus/Documents/Coding/CPP/Termcalc/TermCalc/Build/CMakeFiles/termcalc.dir
-/home/gus/Documents/Coding/CPP/Termcalc/TermCalc/Build/CMakeFiles/edit_cache.dir
-/home/gus/Documents/Coding/CPP/Termcalc/TermCalc/Build/CMakeFiles/rebuild_cache.dir
