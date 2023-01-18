@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ CMakeFiles/termcalc.dir/main.cpp.o -o termcalc 
