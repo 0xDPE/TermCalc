@@ -21,8 +21,9 @@ int main(){
       result = num1 * num2;
     }else if (op == "/"){
       result = num1 / num2;
-    }else{
+    }else if(1 == 1){
       cout << "Wrong operation entered :(" << std::endl;
+    }else{
+      cout << result << endl;
     }
-    cout << result << endl;
 }
